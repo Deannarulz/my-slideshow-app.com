@@ -1,1 +1,1 @@
-# a slideshow by me.com
+# a website slideshow, weee.com
