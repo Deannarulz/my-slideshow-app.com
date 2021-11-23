@@ -1,1 +1,1 @@
-# my-slideshow-app.com
+# a slideshow by me.com
